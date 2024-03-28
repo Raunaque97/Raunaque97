@@ -8,7 +8,7 @@
 
 ##### 🚀 Currently Building in the web3 space!
 
-| <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Raunaque97&theme=dark" alt="github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark" /></a> |
+| <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Raunaque97&theme=dark" alt="github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raunaque97&layout=donut&theme=dark" /></a> |
 | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <!-- <a><img src="https://komarev.com/ghpvc/?username=Raunaque97&style=for-the-badge"></a> -->
